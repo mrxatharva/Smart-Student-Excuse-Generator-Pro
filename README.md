@@ -23,3 +23,16 @@ A Java AWT + Swing application that generates creative excuses for students.
 javac SmartStudentExcuseGeneratorPro.java
 java SmartStudentExcuseGeneratorPro
 ``` 
+## Screenshots
+
+### Main Window
+![Main Window](screenshots/ss1.png)
+
+### Excuse Generator
+![Excuse Generator](screenshots/ss2.png)
+
+### Attendance Checker
+![Attendance Checker](screenshots/ss3.png)
+
+### Generated Report
+![Generated Report](screenshots/s4.png)
